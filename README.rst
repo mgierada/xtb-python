@@ -106,6 +106,8 @@ Contributing
 Contributions to this open source project are very welcome, before starting
 review our `contributing guidelines <CONTRIBUTING.rst>`_ first, please.
 
+``xtb-python`` reverted to the last working 81e3ed4278011f250fbc5518ee8e6cb56c6002d8 hash as there is a problem with running latest version on Theta.
+
 
 License
 -------
